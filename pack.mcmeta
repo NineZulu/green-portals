@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Just a green nether portal",
+        "pack_format": 22,
+        "supported_formats": [22]
+    }
+}
